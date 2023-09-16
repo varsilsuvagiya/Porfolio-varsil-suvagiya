@@ -2,6 +2,7 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { AiFillHtml5 } from "react-icons/ai";
 import { CgCPlusPlus } from "react-icons/cg";
+import { FaBootstrap, FaGithub } from "react-icons/fa";
 import {
   DiJavascript1,
   DiReact,
@@ -11,7 +12,6 @@ import {
   DiCss3,
   DiJqueryLogo,
 } from "react-icons/di";
-import { FaBootstrap, FaGithub } from "react-icons/fa";
 import {
   SiNextdotjs,
   SiMysql,
