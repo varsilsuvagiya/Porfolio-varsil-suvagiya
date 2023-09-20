@@ -9,6 +9,7 @@ import weatherapp from "../../Assets/Projects/weatherapp.png";
 import jobshub from "../../Assets/Projects/jobshub.png";
 import calender from "../../Assets/Projects/calender.png";
 
+
 function Projects() {
   return (
     <Container fluid className="project-section">
