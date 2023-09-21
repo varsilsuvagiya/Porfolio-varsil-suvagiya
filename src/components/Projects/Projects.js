@@ -2,12 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
+import calender from "../../Assets/Projects/calender.png";
 import stopwatch from "../../Assets/Projects/stopwatch.png";
 import matchgame from "../../Assets/Projects/matchgame.png";
 import clock from "../../Assets/Projects/clock.png";
 import weatherapp from "../../Assets/Projects/weatherapp.png";
 import jobshub from "../../Assets/Projects/jobshub.png";
-import calender from "../../Assets/Projects/calender.png";
 
 
 function Projects() {
@@ -15,6 +15,13 @@ function Projects() {
     <Container fluid className="project-section">
       <Particle />
       <Container>
+
+    
+
+
+
+
+
         <h1 className="project-heading">
           My Recent <strong className="purple">Works </strong>
         </h1>
