@@ -1,3 +1,13 @@
+
+
+.purple {
+  color: var(--imp-text-color) !important;
+}
+
+button:focus {
+  box-shadow: none !important;
+}
+
 html {
   --section-background-color: linear-gradient(
     to bottom left,
@@ -13,15 +23,6 @@ html {
 
   --imp-text-color: #c770f0;
 }
-
-.purple {
-  color: var(--imp-text-color) !important;
-}
-
-button:focus {
-  box-shadow: none !important;
-}
-
 /* --------- */
 /*  Preloader */
 /* --------- */
