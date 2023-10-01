@@ -173,7 +173,7 @@ html {
 }
 
 .navbar-toggler:not(.collapsed) span:nth-child(1) {
-  
+
   position: absolute !important;
   left: 12px !important;
   top: 10px !important;
@@ -205,9 +205,16 @@ html {
     display: none !important;
   }
 }
+
+
+
+
 .navbar-brand {
   color: rgb(250, 250, 250) !important;
 }
+
+
+
 
 .logo {
   height: 1.4em !important;
