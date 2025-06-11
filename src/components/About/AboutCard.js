@@ -11,8 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Varsil Suvagiya </span>
             from <span className="purple"> Surat,Gujarat.</span>
             <br />
-            <br /> I completed my Bachelour of Computer Apllications(B.C.A) in
-            2023 from Veer Narmad South Gujarat University ,surat
+            <br />I completed my Master of Computer Applications (M.C.A.) in 2026 from Sardar Patel University, Anand.
+
+
             <br />
             <br />
             Additionally, I am currently employed as a software developer at

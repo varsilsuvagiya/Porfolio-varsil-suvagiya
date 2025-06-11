@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
 import { AiOutlineDownload } from "react-icons/ai";
-import pdf from "../../Assets/varsil_resume.pdf";
+import pdf from "../../Assets/VarsilSuvagiyaResume.pdf";
 
 function Home() {
   return (
